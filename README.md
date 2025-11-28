@@ -8,7 +8,7 @@
 
 &nbsp;
 
-- ### [Download the .yymps](https://github.com/offalynne/input/releases/)
+- ### [Download the .yymps](https://github.com/offalynne/Input/releases/tag/8.1.4)
 - ### Read the [documentation](https://offalynne.github.io/Input/#/8.1/)
 - ### Support on [Patreon](https://www.patreon.com/AlynneKeith) or tip on [Kofi](https://ko-fi.com/offalynne)
 - ### Talk about Input on the [Discord server](https://discord.gg/RDYyRqBswD)
