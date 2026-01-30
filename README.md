@@ -18,4 +18,4 @@
 
 &nbsp;
 
-<p align="center">Looking for the latest version of Input? <a href="https://github.com/offalynne/Input/">Code</a>, <a href="https://offalynne.github.io/Input/">Documentation</a>, <a href="https://discord.gg/s6NjaV8AnM">Discord</a>, <a href="https://github.com/offalynne/Input/releases/">Release (.yymps)</a></p>
+<p align="center">Looking for the latest version of Input? <a href="https://codeberg.org/offalynne/Input/">Code</a>, <a href="https://offalynne.grebedoc.dev/Input/">Documentation</a>, <a href="https://discord.gg/hwgWpnsNw2">Discord</a>, <a href="https://codeberg.org/offalynne/Input/releases">Release (.yymps)</a></p>
